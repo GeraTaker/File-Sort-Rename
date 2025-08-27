@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 from collections import defaultdict
-
+#prueba
 ## Configuración de variables
 directory = r'D:\Descargas\Disco duro\Extras'
 extension_count = defaultdict(int)
