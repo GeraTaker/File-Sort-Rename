@@ -6,6 +6,7 @@ from collections import defaultdict
 ## Configuración de variables
 "hola"
 #hola
+#hola por 4
 directory = r'D:\Descargas\Disco duro\Extras'
 extension_count = defaultdict(int)
 total_changes = 0
